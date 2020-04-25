@@ -1,7 +1,7 @@
 #pragma once
 #ifndef MPU9250_H
 #define MPU9250_H
-
+//modification 1
 #ifdef TEENSYDUINO
 #include <i2c_t3.h>
 #else
